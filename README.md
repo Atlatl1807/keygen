@@ -2,6 +2,8 @@
 
 https://crackmes.one/crackme/5ab77f6433c5d40ad448caf8
 
+decompiled using https://java-decompiler.github.io/
+
 ## features
 
 * enter name and country using command line
